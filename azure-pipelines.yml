@@ -14,8 +14,8 @@ pool:
 variables:
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
-  solution: '**/BigPurpleBankWebApi/BigPurpleBankWebApi.sln'
-  project: '**/"BigPurpleBankWebApi/BigPurpleBankWebApi.csproj'
+  solution: '**/BigPurpleBankWebApi.sln'
+  project: '**/BigPurpleBankWebApi.csproj'
   
 
 steps:
