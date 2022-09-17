@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u5CTyl6puXlOyx1mOyaW0IdFrQ4o7GJGayV2vGjcnrM=",
+  "Source": "BigPurpleBankWebApi",
+  "BasePath": "_content/BigPurpleBankWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
