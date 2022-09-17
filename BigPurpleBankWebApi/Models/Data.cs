@@ -21,7 +21,7 @@ namespace BigPurpleBankWebApi.Models
             new Product()
             {
                 ProductId= "789",
-                Name= "House Loan",
+                Name= "Houses Loan",
                 Description= "this is a new product"
             }
         };
