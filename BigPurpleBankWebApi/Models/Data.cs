@@ -26,6 +26,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -48,6 +61,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -70,6 +96,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -92,6 +131,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -114,6 +166,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -136,6 +201,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -158,6 +236,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -180,6 +271,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -202,6 +306,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             },
             new Product()
@@ -224,6 +341,19 @@ namespace BigPurpleBankWebApi.Models
                     EligibilityUri="test",
                     FeesAndPricingUri="test",
                     BundleUri="test"
+                },
+                CardArt= new List<CardArt>()
+                {
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    },
+                    new CardArt()
+                    {
+                        Title="test",
+                        ImageUri="test"
+                    }
                 }
             }
         };
