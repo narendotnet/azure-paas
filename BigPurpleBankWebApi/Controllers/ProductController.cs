@@ -1,4 +1,5 @@
 using BigPurpleBankWebApi.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BigPurpleBankWebApi.Controllers
@@ -12,6 +13,7 @@ namespace BigPurpleBankWebApi.Controllers
             this._service = service;
         }
 
+        [EnableCors("test")]
         [HttpGet("[action]")]
         public IActionResult GetProducts()
         {
