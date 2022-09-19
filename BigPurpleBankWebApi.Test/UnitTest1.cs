@@ -20,6 +20,7 @@ namespace BigPurpleBankWebApi.Test
         {
             // Act
             var okResult = _controller.GetProducts();
+
             // Assert
             Assert.IsType<OkObjectResult>(okResult as OkObjectResult);
         }
@@ -29,9 +30,21 @@ namespace BigPurpleBankWebApi.Test
         {
             // Act
             var okResult = _controller.GetProducts() as OkObjectResult;
+
             // Assert
             var items = Assert.IsType<List<Product>>(okResult?.Value);
             Assert.Equal(10, items.Count);
+        }
+
+        [Fact]
+        public void Get_WhenCalled_ReturnsNull()
+        {
+            // Act
+            var okResult = _controller.GetProducts() as OkObjectResult;
+
+            // Assert
+            var items = Assert.IsType<List<Product>>(okResult?.Value);
+            Assert.NotNull(items);
         }
     }
 }
